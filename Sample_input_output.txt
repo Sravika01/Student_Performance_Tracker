@@ -1,0 +1,165 @@
+1. Adding Three Students 
+--- Student Result Management ---
+1. Add Student
+2. Add Subject Marks
+3. View Student Report
+4. View All Students
+5. Exit
+Enter choice (1-5): **1**
+
+--- Add New Student ---
+Enter Student ID: **S001**
+Enter Student Name: **Aarav Sharma**
+✅ Student Aarav Sharma (ID: S001) added successfully.
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **1**
+
+--- Add New Student ---
+Enter Student ID: **S002**
+Enter Student Name: **Priya Singh**
+✅ Student Priya Singh (ID: S002) added successfully.
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **1**
+
+--- Add New Student ---
+Enter Student ID: **S003**
+Enter Student Name: **Rohan Kumar**
+✅ Student Rohan Kumar (ID: S003) added successfully.
+
+2. Adding Marks for Each Student
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S001**
+Enter Subject Name: **Physics**
+Enter Marks (0-100): **95**
+✅ Marks for Physics added successfully to student S001.
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S001**
+Enter Subject Name: **Chemistry**
+Enter Marks (0-100): **98**
+✅ Marks for Chemistry added successfully to student S001.
+
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S002**
+Enter Subject Name: **English**
+Enter Marks (0-100): **70**
+✅ Marks for English added successfully to student S002.
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S002**
+Enter Subject Name: **Sociology**
+Enter Marks (0-100): **65**
+✅ Marks for Sociology added successfully to student S002.
+
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S003**
+Enter Subject Name: **Math**
+Enter Marks (0-100): **40**
+✅ Marks for Math added successfully to student S003.
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **2**
+
+--- Add Subject Marks ---
+Enter Student ID to add marks: **S003**
+Enter Subject Name: **Computer**
+Enter Marks (0-100): **30**
+✅ Marks for Computer added successfully to student S003.
+
+3. Viewing All Student Reports
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **3**
+
+--- View Student Report ---
+Enter Student ID to view report: **S001**
+
+--- Report for Aarav Sharma (S001) ---
+**Subject Marks:**
+  - Physics: 95
+  - Chemistry: 98
+-------------------------------------
+Total Marks: 193
+Average: 96.50
+Grade: A
+-------------------------------------
+
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **3**
+
+--- View Student Report ---
+Enter Student ID to view report: **S002**
+
+--- Report for Priya Singh (S002) ---
+**Subject Marks:**
+  - English: 70
+  - Sociology: 65
+-------------------------------------
+Total Marks: 135
+Average: 67.50
+Grade: C
+-------------------------------------
+
+--- Student Result Management ---
+...
+Enter choice (1-5): **3**
+
+--- View Student Report ---
+Enter Student ID to view report: **S003**
+
+--- Report for Rohan Kumar (S003) ---
+**Subject Marks:**
+  - Math: 40
+  - Computer: 30
+-------------------------------------
+Total Marks: 70
+Average: 35.00
+Grade: Fail
+-------------------------------------
+
+4. Viewing Summary of All Students
+--- Student Result Management ---
+...
+Enter choice (1-5): **4**
+
+--- All Registered Students ---
+ID: S001, Name: Aarav Sharma, Subjects: 2
+ID: S002, Name: Priya Singh, Subjects: 2
+ID: S003, Name: Rohan Kumar, Subjects: 2
+-------------------------------
+5. Exiting the System
+--- Student Result Management ---
+...
+Enter choice (1-5): **5**
+
+Exiting Student Result Management System. Goodbye!
