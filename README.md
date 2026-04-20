@@ -1,4 +1,4 @@
-# Student_Performance_Tracker
+# Student Performance Tracker
 A Python-based project that helps manage student details and results efficiently using Object-Oriented Programming (OOP) concepts.
 
 ---
